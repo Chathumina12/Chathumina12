@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/chathuminar2](https://www.behance.net/chathuminar2)
+- 👨‍💻 All of my projects are available at [https://www.behance.net/chathuminar2](https://www.behance.net/chathumruwindu)
 
 - 💬 Ask me about **HTML, CSS and JavaScript.**
 
